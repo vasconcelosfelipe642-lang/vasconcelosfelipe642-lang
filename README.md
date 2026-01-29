@@ -7,7 +7,7 @@ Olá! Tenho 20 anos e sou natural de Aracaju, Sergipe. Atualmente, curso Anális
 
 Além dos estudos, atuo no setor de logística , o que me ajuda a desenvolver uma visão organizada e voltada para processos, competências que aplico diretamente nos meus projetos
 
-<p align="left"> <a href="https://github.com/vasconcelosfelipe642-langtab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/SEU_USUARIO?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+
 
 🤖 Linguagens e Tecnologias
 Utilizo tecnologias modernas para o desenvolvimento de sistemas robustos, com foco especial em ecossistemas C# e JavaScript.
