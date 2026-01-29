@@ -1,4 +1,5 @@
 ##Felipe Gabriel 👋
+
 Desenvolvedor de Software | Estudante de ADS
 
 Olá! Tenho 20 anos e sou natural de Aracaju, Sergipe. Atualmente, curso Análise e Desenvolvimento de Sistemas, onde busco unir teoria e prática para criar soluções eficientes. Tenho experiência no desenvolvimento de aplicações que impactam positivamente a gestão e o cotidiano, desde sistemas de agendamento voltados à saúde até soluções de gestão ambiental.
